@@ -1,0 +1,24 @@
+.tabheader {
+  margin-bottom: 35px;
+}
+
+.tabheader__item {
+  font-size: 35px;
+  margin: 40px;
+  padding: 10px 20px;
+  border: 1px solid black;
+  border-radius: 50%;
+  cursor: pointer;
+}
+.tabheader__item:hover {
+  color: #e7eaf3;
+  background-color: #555354;
+  border: none;
+}
+
+.tabcontent__img img{
+  width: 500px;
+  height: 350px;
+  border-radius: 25px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.521);
+}
